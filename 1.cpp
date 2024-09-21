@@ -21,5 +21,7 @@ int main()
     swap(&x,&y);
     cout<<"value of x is:"<<x<<endl;
     cout<<"value of y is:"<<x<<endl;
+    cout<<"value of x is:"<<x<<endl;
+    cout<<"value of y is:"<<x<<endl;
     return 0;
 }
