@@ -15,6 +15,9 @@ int main()
     cout<<"value of x is:"<<x<<endl;
     cout<<"value of y is:"<<x<<endl;
     cout<<"after swapping\n";
+    cout<<"value of x is:"<<x<<endl;
+    cout<<"value of y is:"<<x<<endl;
+    cout<<"after swapping\n"; 
     swap(&x,&y);
     cout<<"value of x is:"<<x<<endl;
     cout<<"value of y is:"<<x<<endl;
